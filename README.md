@@ -16,6 +16,7 @@
 ## BuildSetup
 ### install and exec
 ```
+git clone https://github.com/jogilsang/nodejs-fileAccessFromUrl.git
 cd server
 npm install
 npm start
